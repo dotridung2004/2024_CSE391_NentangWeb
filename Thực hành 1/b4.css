@@ -1,0 +1,101 @@
+h3 {
+  border-bottom: 2px solid;
+}
+.input-group1 {
+  line-height: 35px;
+}
+.radiobuttom1 {
+  margin-left: 150px;
+  margin-top: -85px;
+}
+.value {
+  margin-left: 155px;
+  margin-top: -35px;
+}
+.lname {
+  margin-left: 155px;
+  margin-top: -35px;
+}
+.gender {
+  margin-top: 50px;
+}
+.firstname input {
+  margin-left: 70px;
+}
+.title input {
+  margin-left: 112px;
+}
+.suffix input {
+  margin-left: 103px;
+}
+.birthdate input {
+  margin-left: 75px;
+}
+.hiredate input {
+  margin-left: 80px;
+}
+.SSN input {
+  margin-left: 2.5px;
+}
+.report select {
+  margin-left: 70px;
+}
+.input-group2 {
+  line-height: 35px;
+}
+.email input {
+  margin-left: 100px;
+}
+.address input {
+  margin-left: 85px;
+}
+.city input {
+  margin-left: 111px;
+}
+.region input {
+  margin-left: 92px;
+}
+.postalcode input {
+  margin-left: 63px;
+}
+.country select {
+  margin-left: 82px;
+}
+.homephone input {
+  margin-left: 27px;
+}
+.photo input {
+  margin-left: 100px;
+}
+.radiobuttom2 {
+  margin-left: 150px;
+}
+.input-group3 {
+  line-height: 35px;
+}
+.radiobuttom2 {
+  margin-left: 150px;
+  margin-top: -33px;
+}
+.click {
+  margin-left: 150px;
+  margin-top: -50px;
+}
+.human {
+  margin-top: 40px;
+}
+.submit {
+  text-align: right;
+}
+.nextform {
+  text-align: left;
+  margin-top: -35px;
+}
+.required {
+  text-align: left;
+}
+.notetext {
+  margin-left: 155px;
+  margin-top: -35px;
+  border: 1px solid;
+}
