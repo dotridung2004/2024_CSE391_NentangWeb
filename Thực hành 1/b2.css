@@ -1,0 +1,27 @@
+header {
+  border-left: 4px solid;
+  color: rgb(175, 49, 3);
+}
+header p {
+  margin-left: 15px;
+  font-weight: 900;
+  font-size: 25px;
+}
+.icon p {
+  margin-left: 25px;
+  margin-top: -20px;
+}
+.icon i {
+  color: rgb(175, 49, 3);
+}
+.form {
+  display: flex;
+  width: 380px;
+  justify-content: space-between;
+}
+.boxcenter {
+  margin-left: 170px;
+}
+.boxright {
+  margin-left: 170px;
+}
