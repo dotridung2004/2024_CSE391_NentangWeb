@@ -1,0 +1,21 @@
+.top-bar .menu .button {
+  background: white;
+  color: green;
+  border-color: green;
+}
+.top-bar-right .btn-delete {
+  background: red;
+  color: white;
+  width: 44px;
+  height: 19px;
+}
+.top-bar-right .btn-create {
+  background: rgb(50, 228, 50);
+  color: white;
+}
+.form2 .top-bar {
+  background: #99ccff;
+}
+.top-bar-left {
+  background: #99ccff;
+}
